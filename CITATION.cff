@@ -6,6 +6,7 @@ authors:
   - family-names: Weisz
     given-names: Benjamin
 repository-code: "https://github.com/wbeni95/zeta-zeros-linear-independence"
+doi: "10.5281/zenodo.23652325"
 license:
   - CC-BY-4.0
   - Apache-2.0

@@ -1,5 +1,7 @@
 # Certified m-independence of the first n zeros of the Riemann zeta function (n ≤ 700)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23652325.svg)](https://doi.org/10.5281/zenodo.23652325)
+
 Let γ₁ < γ₂ < … be the ordinates of the nontrivial zeros of ζ(s) in the upper half-plane. This repository proves, for the (n, M) below, that **there is no integer relation**
 
 > m₀γ₁ + m₁γ₂ + … + m_{n−1}γ_n = 0   with   (m₁, …, m_{n−1}) ≠ 0   and   max_{j≥1} |m_j| ≤ M,
@@ -29,7 +31,7 @@ The certificate does not depend on how the bases were reduced.
 
 ## Check it yourself
 
-The bases (4.5 GB in total, gzip text) are in the Zenodo record [doi:TO-BE-ADDED]. Put them in `bases/`. Then:
+The bases (4.5 GB in total, gzip text) are in the Zenodo record [doi:10.5281/zenodo.23652325](https://doi.org/10.5281/zenodo.23652325). Put them in `bases/`. Then:
 
 ```bash
 pip install python-flint                 # FLINT/Arb ball arithmetic
@@ -72,4 +74,4 @@ The companion result on the oscillation of the Mertens function, lim sup M(x)/�
 
 ## Licence and citation
 
-Code (verify/) under the Apache License 2.0; data and documentation under CC BY 4.0: see [NOTICE](NOTICE). Please cite the Zenodo record [doi:TO-BE-ADDED]; the metadata is also in [CITATION.cff](CITATION.cff).
+Code (verify/) under the Apache License 2.0; data and documentation under CC BY 4.0: see [NOTICE](NOTICE). Please cite the Zenodo record [doi:10.5281/zenodo.23652325](https://doi.org/10.5281/zenodo.23652325); the metadata is also in [CITATION.cff](CITATION.cff).
