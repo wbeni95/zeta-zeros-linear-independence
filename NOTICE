@@ -1,0 +1,7 @@
+Certified m-independence of the first n zeros of the Riemann zeta function
+Copyright 2026 Benjamin Weisz
+
+Code (verify/*.py) is licensed under the Apache License, Version 2.0: see LICENSE.
+
+Data and documentation (bases/, data/, results/, README.md, THEOREM.md, VALIDATION_GUIDE.md, CITATION.cff,
+SHA256SUMS.txt) are licensed under the Creative Commons Attribution 4.0 International license: see LICENSE-DATA.

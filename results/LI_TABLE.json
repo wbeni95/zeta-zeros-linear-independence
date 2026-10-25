@@ -1,0 +1,11 @@
+{
+ "description": "Certified m-independence of the first n zeros of the Riemann zeta function: no relation m_0 g_1 + sum_{j=1}^{n-1} m_j g_{j+1} = 0 with (m_1..m_{n-1}) != 0 and max_{j>=1} |m_j| <= M (m_0 unrestricted). nu = 32000. Bases: bases/ (Zenodo record).",
+ "rows": [
+  {"n": 100, "M": "26040722142003286077749727759972789806091216009674448694364055279943736769740328079508669202431", "basis": "LI_n100_nu32000.txt.gz", "sha256": "14dc3ecca5357622e44aafc87aa96ca7ee0f23ad22ec62d5eb72250a917424a6"},
+  {"n": 200, "M": "2593985472748703519351868734915909244539623708", "basis": "LI_n200_nu32000.txt.gz", "sha256": "45d98006413b3100fe2a509cdc508e515d0506e23c30730117f9b65c6f3b4ef1"},
+  {"n": 300, "M": "43399658183857302831554515661", "basis": "LI_n300_nu32000.txt.gz", "sha256": "7d96561063e533a6d93ddb10dcaa86cabdd16afca8d4abe43bc745959997f709"},
+  {"n": 400, "M": "93622804931216853389", "basis": "LI_n400_nu32000.txt.gz", "sha256": "f8096cf8e1891b8d1268010522582d7476cae31cc79ff6b1444c50ecea0478be"},
+  {"n": 500, "M": "7713877316725", "basis": "LI_n500_nu32000.txt.gz", "sha256": "a1b86abcb3586b440c5a7463622368f84177ff25fbd189555e74b63e01616691"},
+  {"n": 700, "M": "257742", "basis": "LI_n700_nu32000.txt.gz", "sha256": "ebecd4f12775a95886431c46d6a7116294381b255aafe2dc058e5c8fc61bbd67"}
+ ]
+}

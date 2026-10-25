@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use these certificates, data or the verifier, please cite them as below."
+type: dataset
+title: "Certified m-independence of the first n zeros of the Riemann zeta function (n <= 700)"
+authors:
+  - family-names: Weisz
+    given-names: Benjamin
+repository-code: "https://github.com/wbeni95/zeta-zeros-linear-independence"
+license:
+  - CC-BY-4.0
+  - Apache-2.0
+version: "1.0.0"
+date-released: "2026-10-25"
+keywords:
+  - Riemann zeta function
+  - zeros of the zeta function
+  - linear independence
+  - lattice reduction
+  - certified computation
+abstract: >-
+  Certificates that the first n nontrivial zeros of the Riemann zeta function admit no integer relation
+  m_0 g_1 + ... + m_{n-1} g_n = 0 with 0 < max_{j>=1} |m_j| <= M, for n = 100, 200, 300, 400, 500 and 700
+  (for n = 700, M = 257742). This improves Table 2 of Best and Trudgian (2015) by 6 to 8 orders of magnitude
+  and extends it to n = 700. Includes the reduced lattice bases, the zero data and a ball-arithmetic verifier.
+references:
+  - type: article
+    authors:
+      - family-names: Best
+        given-names: D. G.
+      - family-names: Trudgian
+        given-names: T. S.
+    title: "Linear relations of zeroes of the zeta-function"
+    journal: "Mathematics of Computation"
+    volume: 84
+    issue: 294
+    start: 2047
+    end: 2058
+    year: 2015
